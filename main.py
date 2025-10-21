@@ -60,7 +60,7 @@ def main():
     SarsV2._parseData(file_path)
     SarsV2.retrieveInformation(file_path)
 
-file_path = "C:\\Users\\frane\\OneDrive\\Documents\\Coding\\Sars v-2\\sarsv2 dataset.customization"
+file_path = "SarsCov2//SarsV2Dataset.customization"
 
 if __name__ == "__main__":
     main()
